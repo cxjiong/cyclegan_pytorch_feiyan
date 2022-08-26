@@ -1,0 +1,16 @@
+certifi==2020.6.20
+cffi==1.14.0
+mkl-fft==1.0.15
+mkl-random==1.1.0
+mkl-service==2.3.0
+numpy==1.16.6
+olefile==0.46
+Pillow==6.2.1
+pip==19.3.1
+pycparser==2.20
+setuptools==44.0.0.post20200106
+six==1.16.0
+torch==1.0.0
+torchvision==0.2.1
+unzip==1.0.0
+wheel==0.37.1
